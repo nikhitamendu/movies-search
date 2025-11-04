@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":"Darling",
+        "category":"Romance",
+        "year":2025
+    },
+    {
+        "id": 2,
+        "name":"Ante Sundaraniki",
+        "category":"RomCom",
+        "year":2015
+    },
+    {
+        "id": 3,
+        "name":"OG",
+        "category":"Action",
+        "year":2025
+    },
+    {
+        "id": 4,
+        "name":"War",
+        "category":"Action",
+        "year":2021
+    },
+    {
+        "id": 5,
+        "name":"Nagavalli",
+        "category":"Horror",
+        "year":2025
+    },
+    {
+        "id": 6,
+        "name":"Radhe Shyam",
+        "category":"Romance",
+        "year":2021
+    },
+    {
+        "id": 7,
+        "name":"Chandramukhi",
+        "category":"Horror",
+        "year":2025
+    },
+    {
+        "id": 8,
+        "name":"Masooda",
+        "category":"Horror",
+        "year":2021
+    }
+]
